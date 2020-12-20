@@ -1,5 +1,5 @@
 HI there 👋
 
-I´m dave, know in the web for Waiolo/s
+I´m dave, know in the web for Waiolo/s.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/apiWaiolo=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/apiWaiolos=anuraghazra&hide=contribs,prs)
