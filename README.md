@@ -25,16 +25,16 @@ I´m dave, know in the web for Waiolo/s.
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
   </a> 
  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/Swift.svg" alt="Swift" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/swift.svg" alt="Swift" style="vertical-align:top margin:6px 4px">
   </a> 
  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/c#.svg" alt="C#" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg" alt="C#" style="vertical-align:top margin:6px 4px">
   </a> 
  <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/angular.svg" alt="AngularJS" style="vertical-align:top margin:6px 4px">
   </a> 
  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/godot.svg" alt="Godot" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/godot.svg" alt="Godot" style="vertical-align:top margin:6px 4px">
   </a> 
  <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" alt="Node.js" style="vertical-align:top margin:6px 4px">
