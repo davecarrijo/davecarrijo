@@ -13,7 +13,7 @@ I´m dave, know in the web for Waiolo/s.
 
 <p align="left">
 
- <a href="#">
+ <a href="https://twitter.com/davecarrijo">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
   </a> 
  <a href="#">
