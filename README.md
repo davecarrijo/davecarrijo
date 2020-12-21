@@ -12,7 +12,7 @@ I´m dave, know in the web for Waiolo/s.
 <p align="left">
 
  <a href="#">
-    <img src="https://live.staticflickr.com/65535/50742197922_de4422cf4d_t.jpg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
     
 </p>
