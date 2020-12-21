@@ -5,7 +5,7 @@ I´m dave, know in the web for Waiolo/s.
 - 🔭 I’m currently not working for Web frontend/backend programmer.<br>
 - 🌱 I’m currently learning computer science on college<br>
 - 💬 Ask me about anything!<br>
-- 😄 Dude: HIgh in tech<br>
+- 😄 Dude: HiGhHh In tEcHhHh<br>
 - 📫 How to reach me: [e-mail](davecarrijo@hotmail.com) and [telegram](https://telegram.io/waiolos)<br>
 - ⚡ Fun fact: I'm a full-time daydreamer, redpilled, programming for fun.<br>## I build with...
 
