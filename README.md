@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<!--
+**waiolo/waiolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+-->
+
 I´m dave, know in the web for Waiolo/s.
 
 - 🔭 I’m currently not working for Web frontend/backend programmer.<br>
@@ -19,6 +25,8 @@ I´m dave, know in the web for Waiolo/s.
 }
 ```
 
+<!-- primeira coluna -->
+
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> You can find me...
 
 <p align="left">
@@ -37,6 +45,7 @@ I´m dave, know in the web for Waiolo/s.
   </a>
 
 </p>
+<!-- Segunda coluna -->
 
 #### I build with...
 
@@ -70,7 +79,7 @@ I´m dave, know in the web for Waiolo/s.
   </a> 
     
 </p>
-
+<!-- Terceira coluna -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=waiolo&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" />
 </a>
