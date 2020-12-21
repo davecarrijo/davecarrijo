@@ -16,13 +16,13 @@ I´m dave, know in the web for Waiolo/s.
  <a href="https://twitter.com/davecarrijo">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
   </a> 
- <a href="#">
+ <a href="https://telegram.me/waiolo">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg" alt="Telegram" style="vertical-align:top margin:6px 4px">
   </a> 
- <a href="#">
+ <a href="https://www.reddit.com/user/Waiolo">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/reddit.svg" alt="Reddit" style="vertical-align:top margin:6px 4px">
   </a> 
- <a href="#">
+ <a href="https://www.linkedin.com/in/davidcarrijo/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="Linkdln" style="vertical-align:top margin:6px 4px">
   </a>
 
@@ -61,13 +61,13 @@ I´m dave, know in the web for Waiolo/s.
     
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiolo&theme=tokyonight&hide_border=true&layout=compact"/>
-
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=waiolo.visitor-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/waiolo?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/waiolo?label=GH%20sponsors&style=flat)](https://github.com/sponsors/waiolo)
-</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=waiolo&theme=tokyonight&count_private=true&show_icons=true&hide_border=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiolo&theme=tokyonight&hide_border=true"/>
 </a>
