@@ -18,6 +18,27 @@ I´m dave, know in the web for Waiolo/s.
  <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 4px">
   </a> 
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="CSS" style="vertical-align:top margin:6px 4px">
+  </a> 
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
+  </a> 
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="Swift" style="vertical-align:top margin:6px 4px">
+  </a> 
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="C#" style="vertical-align:top margin:6px 4px">
+  </a> 
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="AngularJS" style="vertical-align:top margin:6px 4px">
+  </a> 
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="Godot" style="vertical-align:top margin:6px 4px">
+  </a> 
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="Node.js" style="vertical-align:top margin:6px 4px">
+  </a> 
     
 </p>
 
