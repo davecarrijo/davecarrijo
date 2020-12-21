@@ -7,14 +7,34 @@ I´m dave, know in the web for Waiolo/s.
 - 💬 Ask me about anything!<br>
 - 😄 Dude: HIgh in tech<br>
 - 📫 How to reach me: [e-mail](davecarrijo@hotmail.com) and [telegram](https://telegram.io/waiolos)<br>
-- ⚡ Fun fact: I'm a full-time daydreamer, redpilled, programming for fun.<br>
+- ⚡ Fun fact: I'm a full-time daydreamer, redpilled, programming for fun.<br>## I build with...
+
+## You can find me:
+
+<p align="left">
+
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
+  </a> 
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg" alt="Telegram" style="vertical-align:top margin:6px 4px">
+  </a> 
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/reddit.svg" alt="Reddit" style="vertical-align:top margin:6px 4px">
+  </a> 
+ <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="Linkdln" style="vertical-align:top margin:6px 4px">
+  </a>
+
+</p>
+
+## I build with...
 
 <p align="left">
 
  <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
   </a> 
-  
  <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 4px">
   </a> 
