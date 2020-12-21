@@ -9,7 +9,7 @@ I´m dave, know in the web for Waiolo/s.
 - 📫 How to reach me: [e-mail](davecarrijo@hotmail.com) and [telegram](https://telegram.io/waiolos)<br>
 - ⚡ Fun fact: I'm a full-time daydreamer, redpilled, programming for fun.<br>## I build with...
 
-## You can find me:
+#### You can find me:
 
 <p align="left">
 
@@ -28,7 +28,7 @@ I´m dave, know in the web for Waiolo/s.
 
 </p>
 
-## I build with...
+#### I build with...
 
 <p align="left">
 
