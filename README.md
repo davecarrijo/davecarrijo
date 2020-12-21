@@ -61,6 +61,7 @@ I´m dave, know in the web for Waiolo/s.
   </a> 
     
 </p>
+
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=waiolo.visitor-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/waiolo?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/waiolo?label=GH%20sponsors&style=flat)](https://github.com/sponsors/waiolo)
@@ -69,5 +70,5 @@ I´m dave, know in the web for Waiolo/s.
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=waiolo&theme=tokyonight&count_private=true&show_icons=true&hide_border=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=waiolo&theme=tokyonight&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
 </a>
