@@ -88,5 +88,6 @@ I´m dave, know in the web for Waiolo/s.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=waiolo&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" />
 </a>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=waiolo&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=waiolo&repo=github-readme-stats" />
+</a>
