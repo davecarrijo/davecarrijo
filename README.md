@@ -76,9 +76,6 @@ I´m dave, know in the web for Waiolo/s.
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/swift.svg" alt="Swift" style="vertical-align:top margin:6px 4px">
   </a>
  <a href="#">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="vertical-align:top margin:6px 4px">
-  </a>
- <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="ReactJS" style="vertical-align:top margin:6px 4px">
   </a>
  <a href="#">
@@ -89,6 +86,12 @@ I´m dave, know in the web for Waiolo/s.
   </a>
  <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
+  </a>
+   <a href="#">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="vertical-align:top margin:6px 4px">
+  </a>
+   <a href="#">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="vertical-align:top margin:6px 4px">
   </a>
 
 </p>
