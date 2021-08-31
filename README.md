@@ -47,6 +47,9 @@ I´m dave, know in the web for Waiolo/s.
  <a href="https://www.linkedin.com/in/davidcarrijo/" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="Linkdln" style="vertical-align:top margin:6px 4px">
   </a>
+ <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg" alt="StackOverFlow" style="vertical-align:top margin:6px 4px">
+  </a>
 
 </p>
 <!-- Segunda coluna -->
@@ -64,13 +67,16 @@ I´m dave, know in the web for Waiolo/s.
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top margin:6px 4px">
   </a>
  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/sass.svg" alt="SASS" style="vertical-align:top margin:6px 4px">
+  </a>
+ <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
   </a>
  <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/swift.svg" alt="Swift" style="vertical-align:top margin:6px 4px">
   </a>
  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg" alt="C#" style="vertical-align:top margin:6px 4px">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="vertical-align:top margin:6px 4px">
   </a>
  <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="ReactJS" style="vertical-align:top margin:6px 4px">
@@ -79,7 +85,10 @@ I´m dave, know in the web for Waiolo/s.
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/godot.svg" alt="Godot" style="vertical-align:top margin:6px 4px">
   </a>
  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg" alt="Node.js" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs_larger.svg" alt="Node.js" style="vertical-align:top margin:6px 4px">
+  </a>
+ <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
   </a>
 
 </p>
