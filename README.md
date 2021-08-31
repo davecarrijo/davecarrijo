@@ -27,7 +27,7 @@ I´m dave, know in the web for Waiolo/s.
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/waiolos)
+//working on the APP/API//
 
 <!-- primeira coluna -->
 
@@ -92,6 +92,12 @@ I´m dave, know in the web for Waiolo/s.
   </a>
    <a href="#">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="vertical-align:top margin:6px 4px">
+  </a>
+   <a href="#">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" style="vertical-align:top margin:6px 4px">
+  </a>
+   <a href="#">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=whitee" alt="AWS" style="vertical-align:top margin:6px 4px">
   </a>
 
 </p>
