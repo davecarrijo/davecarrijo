@@ -13,7 +13,7 @@ I´m dave, know in the web for Waiolo/s.
 - 💬 Ask me about anything!<br>
 - 😄 Dude: HiGhHh In tEcHhHh<br>
 - 📫 How to reach me: [e-mail](davecarrijo@hotmail.com) and [telegram](https://telegram.me/waiolo)<br>
-- ⚡ Fun fact: I'm a full-time daydreamer, redpilled, programming for fun.<br>## I build with...
+- ⚡ Fun fact: I'm a full-time daydreamer, redpilled, programming for fun.<br>
 
 ```css
 #Waiolo {
