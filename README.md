@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**waiolo/waiolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**davecarrijo/davecarrijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 -->
@@ -14,6 +14,7 @@ I´m dave, know in the web for Waiolo/s.
 - 😄 Dude: HiGhHh In tEcHhHh<br>
 - 📫 How to reach me: [e-mail](davecarrijo@hotmail.com) and [telegram](https://telegram.me/mexicaninho)<br>
 - ⚡ Fun fact: I'm a full-time daydreamer, redpilled, programming for fun.<br>
+- ⚡ Second fun fact, I did some concept art before, search for waiolos
 
 
 <!-- primeira coluna -->
