@@ -15,6 +15,32 @@ I´m dave, know in the web for Waiolo/s.
 - 📫 How to reach me: [e-mail](davecarrijo@hotmail.com) and [telegram](https://telegram.me/waiolo)<br>
 - ⚡ Fun fact: I'm a full-time daydreamer, redpilled, programming for fun.<br>
 
+
+<!-- primeira coluna -->
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> You can find me...
+
+<p align="left">
+
+ <a href="https://twitter.com/davecarrijo" target="_blank">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
+  </a>
+ <a href="https://telegram.me/mexicaninho" target="_blank">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg" alt="Telegram" style="vertical-align:top margin:6px 4px">
+  </a>
+ <a href="https://www.reddit.com/user/Waiolo" target="_blank">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/reddit.svg" alt="Reddit" style="vertical-align:top margin:6px 4px">
+  </a>
+ <a href="https://www.linkedin.com/in/davidcarrijo/" target="_blank">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="Linkdln" style="vertical-align:top margin:6px 4px">
+  </a>
+ <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg" alt="StackOverFlow" style="vertical-align:top margin:6px 4px">
+  </a>
+
+</p>
+
+
 ```css
 #Waiolo {
   position: País dos bigodes;
@@ -29,29 +55,6 @@ I´m dave, know in the web for Waiolo/s.
 
 //working on the APP/API//
 
-<!-- primeira coluna -->
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> You can find me...
-
-<p align="left">
-
- <a href="https://twitter.com/davecarrijo" target="_blank">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
-  </a>
- <a href="https://telegram.me/waiolo" target="_blank">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg" alt="Telegram" style="vertical-align:top margin:6px 4px">
-  </a>
- <a href="https://www.reddit.com/user/Waiolo" target="_blank">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/reddit.svg" alt="Reddit" style="vertical-align:top margin:6px 4px">
-  </a>
- <a href="https://www.linkedin.com/in/davidcarrijo/" target="_blank">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="Linkdln" style="vertical-align:top margin:6px 4px">
-  </a>
- <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg" alt="StackOverFlow" style="vertical-align:top margin:6px 4px">
-  </a>
-
-</p>
 <!-- Segunda coluna -->
 
 #### I build with...
@@ -73,8 +76,8 @@ I´m dave, know in the web for Waiolo/s.
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
   </a>
  <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/swift.svg" alt="Swift" style="vertical-align:top margin:6px 4px">
-  </a>
+<!--  not yet   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/swift.svg" alt="Swift" style="vertical-align:top margin:6px 4px">
+  </a> -->
  <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="ReactJS" style="vertical-align:top margin:6px 4px">
   </a>
