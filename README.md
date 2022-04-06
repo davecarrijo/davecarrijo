@@ -112,6 +112,6 @@ I´m dave, know in the web for Waiolo/s.
 </a>
 <div>
   
-![Snake animation](davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
