@@ -110,4 +110,6 @@ I´m dave, know in the web for Waiolo/s.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiolo&theme=tokyonight" />
 </a>
+<div>
 ![Snake animation](https://github.com/davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
+</div>
