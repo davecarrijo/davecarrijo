@@ -13,9 +13,8 @@ I´m dave, know in the web for Waiolo/s.
 - 💬 Ask me about anything!<br>
 - 😄 Dude: HiGhHh In tEcHhHh<br>
 - 📫 How to reach me: [e-mail](davecarrijo@hotmail.com) and [telegram](https://telegram.me/mexicaninho)<br>
-- ⚡ Fun fact: I'm a full-time daydreamer, redpilled, programming for fun.<br>
+- ⚡ Fun fact: I'm a full-time daydreamer.<br>
 - ⚡ Second fun fact, I did some concept art before, search for waiolos
-
 
 <!-- primeira coluna -->
 
@@ -40,7 +39,6 @@ I´m dave, know in the web for Waiolo/s.
   </a>
 
 </p>
-
 
 ```css
 #Waiolo {
@@ -97,11 +95,11 @@ I´m dave, know in the web for Waiolo/s.
    <a href="#">
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" style="vertical-align:top margin:6px 4px">
   </a>
-   <a href="#">
+   <!-- <a href="#">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=whitee" alt="AWS" style="vertical-align:top margin:6px 4px">
-  </a>
+  </a> -->
 
-</p>
+
 <!-- Terceira coluna -->
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=davecarrijo.visitor-badge)
@@ -115,7 +113,7 @@ I´m dave, know in the web for Waiolo/s.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davecarrijo&theme=tokyonight" />
 </a>
 <div>
-  
+
 ![Snake animation](https://github.com/davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
