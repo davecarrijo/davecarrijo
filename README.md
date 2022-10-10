@@ -117,3 +117,8 @@ I´m dave, know in the web for Waiolo/s.
 ![Snake animation](https://github.com/davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+<div>
+<p>I'm helping with those repos:</p>
+<a href="https://github.com/ShadityZ/Vitrix-Engine">Vitrix engine(Py)</a><br>
+<a href="https://github.com/relt-1/czeditor/">CZeditor (py)</a><br>
+</div>
