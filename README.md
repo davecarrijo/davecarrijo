@@ -25,7 +25,7 @@ I´m dave, know in the web for Waiolo/s.
  <a href="https://twitter.com/davecarrijo" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
   </a>
- <a href="https://telegram.me/mexicaninho" target="_blank">
+ <a href="https://telegram.me/davecarrijo" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg" alt="Telegram" style="vertical-align:top margin:6px 4px">
   </a>
  <a href="https://www.reddit.com/user/Waiolo" target="_blank">
