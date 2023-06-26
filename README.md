@@ -37,6 +37,8 @@ I´m dave, know in the web for Waiolo/s.
  <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg" alt="StackOverFlow" style="vertical-align:top margin:6px 4px">
   </a>
+  <a href="" target="_blank">   
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/leetcode.svg</a>
 
 </p>
 
