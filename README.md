@@ -22,23 +22,24 @@ I´m dave, know in the web for Waiolo/s.
 
 <p align="left">
 
- <a href="https://twitter.com/davecarrijo" target="_blank">
+<a href="https://twitter.com/davecarrijo" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
   </a>
- <a href="https://telegram.me/davecarrijo" target="_blank">
+<a href="https://telegram.me/davecarrijo" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg" alt="Telegram" style="vertical-align:top margin:6px 4px">
   </a>
- <a href="https://www.reddit.com/user/Waiolo" target="_blank">
+<a href="https://www.reddit.com/user/Waiolo" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/reddit.svg" alt="Reddit" style="vertical-align:top margin:6px 4px">
   </a>
- <a href="https://www.linkedin.com/in/davidcarrijo/" target="_blank">
+<a href="https://www.linkedin.com/in/davidcarrijo/" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="Linkdln" style="vertical-align:top margin:6px 4px">
   </a>
- <a href="" target="_blank">
+<a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg" alt="StackOverFlow" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="" target="_blank">   
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/leetcode.svg</a>
+<a href="" target="_blank">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/leetcode.svg" alt="StackOverFlow" style="vertical-align:top margin:6px 4px">
+  </a>
 
 </p>
 
@@ -61,46 +62,45 @@ I´m dave, know in the web for Waiolo/s.
 #### I build with...
 
 <p align="left">
- <a href="#">
+<a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
   </a>
- <a href="#">
+<a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 4px">
   </a>
- <a href="#">
+<a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="CSS" style="vertical-align:top margin:6px 4px">
   </a>
- <a href="#">
+<a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/sass.svg" alt="SASS" style="vertical-align:top margin:6px 4px">
   </a>
- <a href="#">
+<a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
   </a>
- <a href="#">
+<a href="#">
 <!--  not yet   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/swift.svg" alt="Swift" style="vertical-align:top margin:6px 4px">
   </a> -->
- <a href="#">
+<a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="ReactJS" style="vertical-align:top margin:6px 4px">
   </a>
- <a href="#">
+<a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/godot.svg" alt="Godot" style="vertical-align:top margin:6px 4px">
   </a>
- <a href="#">
+<a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs_larger.svg" alt="Node.js" style="vertical-align:top margin:6px 4px">
   </a>
- <a href="#">
+<a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top margin:6px 4px">
   </a>
-   <a href="#">
+  <a href="#">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="vertical-align:top margin:6px 4px">
   </a>
-   <a href="#">
+  <a href="#">
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" style="vertical-align:top margin:6px 4px">
   </a>
-   <!-- <a href="#">
+  <!-- <a href="#">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=whitee" alt="AWS" style="vertical-align:top margin:6px 4px">
   </a> -->
-
 
 <!-- Terceira coluna -->
 
