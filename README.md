@@ -27,7 +27,7 @@ I´m dave, know in the web for Waiolo/s.
 }
 ```
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> You can find me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> You can find me...
 
 <p align="left">
 <a href="https://www.linkedin.com/in/davidcarrijo/" target="_blank">
@@ -51,7 +51,7 @@ I´m dave, know in the web for Waiolo/s.
 
 <!-- Segunda coluna -->
 
-#### I build with...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> I build with:
 
 <p align="left">
 <a href="#">
@@ -115,7 +115,7 @@ I´m dave, know in the web for Waiolo/s.
 ### Spotify Playing 🎧
 </div>
 <a href="https://open.spotify.com/user/waiolos">
-  <img src="https://spotify-readme-nws6g1csl-waiolo.vercel.app/api" alt="Current Spotify Song">
+  <img src="https://spotify-readme-nws6g1csl-waiolo.vercel.app/api?rainbow=true" alt="Current Spotify Song">
 </a>
 <br>
 <div>
