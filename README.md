@@ -16,6 +16,8 @@ I´m dave, know in the web for Waiolo/s.
 - ⚡ Fun fact: I'm a full-time daydreamer.<br>
 - ⚡ Second fun fact, I did some concept art before, search for waiolos
 
+#<a href="" target="_blank">Download Curriculum</a>
+
 <!-- primeira coluna -->
 ```css
 #Waiolo {
@@ -33,10 +35,10 @@ I´m dave, know in the web for Waiolo/s.
 <a href="https://www.linkedin.com/in/davidcarrijo/" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="Linkdln" style="vertical-align:top margin:6px 4px">
   </a>
-<a href="" target="_blank">
+<a href="https://stackoverflow.com/users/16715131/dave-carrijo" target="_blank">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg" alt="StackOverFlow" style="vertical-align:top margin:6px 4px">
   </a>
-<a href="" target="_blank">
+<a href="https://leetcode.com/Waiolo/" target="_blank">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/leetcode.svg" alt="StackOverFlow" style="vertical-align:top margin:6px 4px">
   </a>
 <a href="https://twitter.com/davecarrijo" target="_blank">
