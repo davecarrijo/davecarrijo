@@ -30,16 +30,6 @@ I´m dave, know in the web for Waiolo/s.
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> You can find me...
 
 <p align="left">
-
-<a href="https://twitter.com/davecarrijo" target="_blank">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
-  </a>
-<a href="https://telegram.me/davecarrijo" target="_blank">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg" alt="Telegram" style="vertical-align:top margin:6px 4px">
-  </a>
-<a href="https://www.reddit.com/user/Waiolo" target="_blank">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/reddit.svg" alt="Reddit" style="vertical-align:top margin:6px 4px">
-  </a>
 <a href="https://www.linkedin.com/in/davidcarrijo/" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="Linkdln" style="vertical-align:top margin:6px 4px">
   </a>
@@ -49,6 +39,16 @@ I´m dave, know in the web for Waiolo/s.
 <a href="" target="_blank">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/leetcode.svg" alt="StackOverFlow" style="vertical-align:top margin:6px 4px">
   </a>
+<a href="https://twitter.com/davecarrijo" target="_blank">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
+  </a>
+<a href="https://telegram.me/davecarrijo" target="_blank">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg" alt="Telegram" style="vertical-align:top margin:6px 4px">
+  </a>
+<a href="https://www.reddit.com/user/Waiolo" target="_blank">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/reddit.svg" alt="Reddit" style="vertical-align:top margin:6px 4px">
+  </a>
+
 <!-- Segunda coluna -->
 
 #### I build with...
