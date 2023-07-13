@@ -55,8 +55,8 @@ I´m dave, know in the web for Waiolo/s.
 
 ### Spotify Playing 🎧
 
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme.vercel.app/api" alt="Current Spotify Song">
+<a href="https://github.com/davecarrijo/Spotify-Readme">
+  <img src="https://spotify-readme-nws6g1csl-waiolo.vercel.app/api" alt="Current Spotify Song">
 </a>
 
 //working on the APP/API//
