@@ -55,6 +55,8 @@ I´m dave, know in the web for Waiolo/s.
 
 ### Spotify Playing 🎧
 
+[![Spotify](https://waiolo.vercel.app/api/spotify)](https://open.spotify.com/user/waiolo)
+
 //working on the APP/API//
 
 <!-- Segunda coluna -->
