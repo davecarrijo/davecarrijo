@@ -17,6 +17,15 @@ I´m dave, know in the web for Waiolo/s.
 - ⚡ Second fun fact, I did some concept art before, search for waiolos
 
 <!-- primeira coluna -->
+```css
+#Waiolo {
+  position: País dos bigodes;
+  height: 178cm;
+  display: Kiddo;
+  background: Tinker Resolver 🔨;
+  color: blue;
+}
+```
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> You can find me...
 
@@ -40,27 +49,6 @@ I´m dave, know in the web for Waiolo/s.
 <a href="" target="_blank">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/leetcode.svg" alt="StackOverFlow" style="vertical-align:top margin:6px 4px">
   </a>
-
-</p>
-
-```css
-#Waiolo {
-  position: País dos bigodes;
-  height: 178cm;
-  display: Kiddo;
-  background: Tinker Resolver 🔨;
-  color: blue;
-}
-```
-
-### Spotify Playing 🎧
-
-<a href="https://open.spotify.com/user/waiolos">
-  <img src="https://spotify-readme-nws6g1csl-waiolo.vercel.app/api" alt="Current Spotify Song">
-</a>
-
-//working on the APP/API//
-
 <!-- Segunda coluna -->
 
 #### I build with...
@@ -106,6 +94,9 @@ I´m dave, know in the web for Waiolo/s.
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=whitee" alt="AWS" style="vertical-align:top margin:6px 4px">
   </a> -->
 
+</p>
+
+
 <!-- Terceira coluna -->
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=davecarrijo.visitor-badge)
@@ -113,16 +104,20 @@ I´m dave, know in the web for Waiolo/s.
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/davecarrijo?label=GH%20sponsors&style=flat)](https://github.com/sponsors/waiolo)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=davecarrijo&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=davecarrijo&show_icons=true&bg_color=00000000&count_private=true&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davecarrijo&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davecarrijo&show_icons=true&bg_color=00000000" />
 </a>
 <div>
 
 ![Snake animation](https://github.com/davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
-
+### Spotify Playing 🎧
 </div>
+<a href="https://open.spotify.com/user/waiolos">
+  <img src="https://spotify-readme-nws6g1csl-waiolo.vercel.app/api" alt="Current Spotify Song">
+</a>
+<br>
 <div>
 <p>I'm helping with those repos:</p>
 <a href="https://github.com/ShadityZ/Vitrix-Engine">Vitrix engine(Py)</a><br>
