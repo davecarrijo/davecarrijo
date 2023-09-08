@@ -122,6 +122,8 @@ I´m dave, know in the web for Waiolo/s.
 </p>
 <div>
 
+![Snake animation](https://github.com/davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
+
 ### Spotify Playing 🎧
 
 </div>
@@ -130,9 +132,6 @@ I´m dave, know in the web for Waiolo/s.
 </a>
 <br>
 
-<p align="left">
-![Snake animation](https://github.com/davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
-</p>
 <div>
 <p>I'm helping with those repos:</p>
 <a href="https://github.com/ShadityZ/Vitrix-Engine">Vitrix engine(Py)</a><br>
