@@ -19,6 +19,7 @@ I´m dave, know in the web for Waiolo/s.
 <a href="" target="_blank"># Download Curriculum</a>
 
 <!-- primeira coluna -->
+
 ```css
 #Waiolo {
   position: País dos bigodes;
@@ -56,9 +57,7 @@ I´m dave, know in the web for Waiolo/s.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> I build with:
 
 <p align="left">
-<a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
-  </a>
+
 <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 4px">
   </a>
@@ -72,13 +71,7 @@ I´m dave, know in the web for Waiolo/s.
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
   </a>
 <a href="#">
-<!--  not yet   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/swift.svg" alt="Swift" style="vertical-align:top margin:6px 4px">
-  </a> -->
-<a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="ReactJS" style="vertical-align:top margin:6px 4px">
-  </a>
-<a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/godot.svg" alt="Godot" style="vertical-align:top margin:6px 4px">
   </a>
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs_larger.svg" alt="Node.js" style="vertical-align:top margin:6px 4px">
@@ -95,10 +88,25 @@ I´m dave, know in the web for Waiolo/s.
   <!-- <a href="#">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=whitee" alt="AWS" style="vertical-align:top margin:6px 4px">
   </a> -->
+</p  >
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> I play with:
+
+<p align="left">
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/qt.svg" alt="QT" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/swift.svg" alt="Swift" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/godot.svg" alt="Godot" style="vertical-align:top margin:6px 4px">
+</a>
 
 </p>
-
-
+<p align="left">
 <!-- Terceira coluna -->
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=davecarrijo.visitor-badge)
@@ -111,15 +119,20 @@ I´m dave, know in the web for Waiolo/s.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davecarrijo&show_icons=true&bg_color=00000000" />
 </a>
+</p>
 <div>
 
-![Snake animation](https://github.com/davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
 ### Spotify Playing 🎧
+
 </div>
 <a href="https://open.spotify.com/user/waiolos">
   <img src="https://spotify-readme-nws6g1csl-waiolo.vercel.app/api?rainbow=true" alt="Current Spotify Song">
 </a>
 <br>
+
+<p align="left">
+![Snake animation](https://github.com/davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
+</p>
 <div>
 <p>I'm helping with those repos:</p>
 <a href="https://github.com/ShadityZ/Vitrix-Engine">Vitrix engine(Py)</a><br>
