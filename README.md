@@ -125,6 +125,7 @@ I´m dave, know in the web for Waiolo/s.
 </p>
 <div>
 
+![Snake animation](https://github.com/davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
 ### Spotify Playing 🎧
 
 </div>
@@ -132,6 +133,7 @@ I´m dave, know in the web for Waiolo/s.
   <img src="https://spotify-readme-nws6g1csl-waiolo.vercel.app/api?rainbow=true" alt="Current Spotify Song">
 </a>
 <br>
+
 <div>
 <br>
 
