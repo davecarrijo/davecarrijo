@@ -125,7 +125,7 @@ I´m dave, know in the web for Waiolo/s.
 </p>
 <div>
 
-![Snake animation](https://github.com/davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
+
 ### Spotify Playing 🎧
 
 </div>
