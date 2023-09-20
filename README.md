@@ -16,9 +16,9 @@ I´m dave, know in the web for Waiolo/s.
 - ⚡ Fun fact: I'm a full-time daydreamer.<br>
 - ⚡ Second fun fact, I did some concept art before, search for waiolos
 <p>
-<a href="" target="_blank"># Download Curriculum Back-End && Front-End</a>
+<a href="" target="_blank"># Download Curriculum Front end</a>
 ||
-<a href="" target="_blank"># Download Curriculum UI&DX</a>
+<a href="" target="_blank"># Download Curriculum Back-End</a>
 </p>
 
 <!-- primeira coluna -->
@@ -92,7 +92,10 @@ I´m dave, know in the web for Waiolo/s.
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=whitee" alt="AWS" style="vertical-align:top margin:6px 4px">
   </a> -->
 </p  >
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> I play with:
+<p>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">I play with:
+</p>
+
 
 <p align="left">
 <a href="#">
@@ -108,13 +111,15 @@ I´m dave, know in the web for Waiolo/s.
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/godot.svg" alt="Godot" style="vertical-align:top margin:6px 4px">
 </a>
 
+![Snake animation](https://github.com/davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
+
 </p>
 <p align="left">
 <!-- Terceira coluna -->
 
-![Counter](https://visitor-badge.glitch.me/badge?page_id=davecarrijo.visitor-badge)
+<!--[Counter](https://visitor-badge.glitch.me/badge?page_id=davecarrijo.visitor-badge) -->
 ![GitHub User's stars](https://img.shields.io/github/stars/davecarrijo?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/davecarrijo?label=GH%20sponsors&style=flat)](https://github.com/sponsors/waiolo)
+<!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/davecarrijo?label=GH%20sponsors&style=flat)](https://github.com/sponsors/waiolo) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=davecarrijo&show_icons=true&bg_color=00000000&count_private=true&show_icons=true&hide_border=true" />
@@ -125,7 +130,6 @@ I´m dave, know in the web for Waiolo/s.
 </p>
 <div>
 
-![Snake animation](https://github.com/davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
 
 ### Spotify Playing 🎧
 
@@ -138,7 +142,7 @@ I´m dave, know in the web for Waiolo/s.
 <div>
 <br>
 
-![Snake animation](https://github.com/davecarrijo/davecarrijo/blob/output/github-contribution-grid-snake.svg)
+
 
 <p>I'm helping with those repos:</p>
 <a href="https://github.com/ShadityZ/Vitrix-Engine">Vitrix engine(Py)</a><br>
