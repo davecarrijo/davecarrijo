@@ -121,9 +121,9 @@ I´m dave, know in the web for Waiolo/s.
 ![GitHub User's stars](https://img.shields.io/github/stars/davecarrijo?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
 <!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/davecarrijo?label=GH%20sponsors&style=flat)](https://github.com/sponsors/waiolo) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=davecarrijo&show_icons=true&bg_color=00000000&count_private=true&show_icons=true&hide_border=true" />
-</a>
+</a>-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davecarrijo&show_icons=true&bg_color=00000000" />
 </a>
