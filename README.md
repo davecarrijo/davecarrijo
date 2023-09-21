@@ -129,11 +129,13 @@ I´m dave, know in the web for Waiolo/s.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davecarrijo&show_icons=true&bg_color=00000000" />
 </a>-->
 </p>
+<br>
 
 
-### Spotify Playing 🎧
 
 </div>
+### Spotify Playing 🎧
+
 <a href="https://open.spotify.com/user/waiolos">
   <img src="https://spotify-readme-nws6g1csl-waiolo.vercel.app/api?rainbow=true" alt="Current Spotify Song">
 </a>
