@@ -134,12 +134,10 @@ I´m dave, know in the web for Waiolo/s.
 
 
 </div>
-### Spotify Playing 🎧
-
 <a href="https://open.spotify.com/user/waiolos">
   <img src="https://spotify-readme-nws6g1csl-waiolo.vercel.app/api?rainbow=true" alt="Current Spotify Song">
 </a>
-<br>
+
 
 <div>
 <br>
