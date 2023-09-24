@@ -16,9 +16,9 @@ I´m dave, know in the web for Waiolo/s.
 - ⚡ Fun fact: I'm a full-time daydreamer.<br>
 - ⚡ Second fun fact, I did some concept art before, search for waiolos
 <p>
-<a href="" target="_blank"># Download Curriculum Front end</a>
+<a href="" target="_blank"># Download CV Full-Stack-Dev</a>
 ||
-<a href="" target="_blank"># Download Curriculum Back-End</a>
+<a href="" target="_blank"># Download CV UI/DX</a>
 </p>
 
 <!-- primeira coluna -->
