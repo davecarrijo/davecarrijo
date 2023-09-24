@@ -18,7 +18,7 @@ I´m dave, know in the web for Waiolo/s.
 <p>
 <a href="" target="_blank"># Download CV Full-Stack-Dev</a>
 ||
-<a href="" target="_blank"># Download CV UI/DX</a>
+<a href="" target="_blank"># Download CV UI / DX</a>
 </p>
 
 <!-- primeira coluna -->
