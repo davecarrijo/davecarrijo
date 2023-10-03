@@ -91,6 +91,7 @@ I´m dave, know in the web for Waiolo/s.
   <!-- <a href="#">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=whitee" alt="AWS" style="vertical-align:top margin:6px 4px">
   </a> -->
+  Bun, Vite,PNPM
 </p  >
 <p>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">I play with:
