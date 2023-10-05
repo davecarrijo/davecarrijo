@@ -16,7 +16,7 @@ I´m dave, know in the web for Waiolo/s.
 - ⚡ Fun fact: I'm a full-time daydreamer.<br>
 - ⚡ Second fun fact, I did some concept art before, search for waiolos
 <p>
-<a href="https://docs.google.com/document/d/1ohDCidTrCZkBm0pzNBWLPT2P3mBFYmKs5ercCExPNfg/edit?usp=sharing](https://drive.google.com/file/d/1rqiYPWYxgMhpnKISVB9MxwLj7a9XOeL9/view?usp=sharing)" target="_blank"># Download CV Full-Stack-Dev</a>
+<a href="https://drive.google.com/file/d/1rqiYPWYxgMhpnKISVB9MxwLj7a9XOeL9/view?usp=sharing" target="_blank"># Download CV Full-Stack-Dev</a>
 ||
 <a href="" target="_blank"># Download CV UI / DX</a>
 </p>
