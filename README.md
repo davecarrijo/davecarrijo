@@ -18,7 +18,7 @@ I´m dave, know in the web for Waiolo/s.
 <p>
 <a href="https://drive.google.com/file/d/1envhtsJNZ1HDQIM1jsZPYDEZNHvo4L3J/view?usp=sharing" target="_blank"># Download CV Full-Stack-Dev</a>
 ||
-<a href="" target="_blank"># Download CV UI / DX</a>
+<a href="https://drive.google.com/file/d/1tOwVLRGLqFxZ8jys0YsSsF9cwTtNMcPO/view?usp=sharing" target="_blank"># Download CV UI / DX</a>
 </p>
 
 <!-- primeira coluna -->
