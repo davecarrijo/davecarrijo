@@ -21,17 +21,6 @@ I´m dave, know in the web for Waiolo/s.
 <a href="https://drive.google.com/file/d/1tOwVLRGLqFxZ8jys0YsSsF9cwTtNMcPO/view?usp=sharing" target="_blank" ># Download CV UI / DX</a>
 </p>
 
-<!-- primeira coluna -->
-
-```css
-#Waiolo {
-  position: País dos bigodes;
-  height: 178cm;
-  display: Kiddo;
-  background: Tinker Resolver 🔨;
-  color: blue;
-}
-```
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> You can find me...
 
@@ -54,6 +43,19 @@ I´m dave, know in the web for Waiolo/s.
 <a href="https://www.reddit.com/user/Waiolo" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/reddit.svg" alt="Reddit" style="vertical-align:top margin:6px 4px">
   </a>
+<!-- primeira coluna -->
+
+```css
+#Waiolo {
+  position: País dos bigodes;
+  height: 178cm;
+  display: Kiddo;
+  background: Tinker Resolver 🔨;
+  color: blue;
+}
+```
+
+
 
 <!-- Segunda coluna -->
 
@@ -93,7 +95,8 @@ I´m dave, know in the web for Waiolo/s.
   </a> -->
 Bun, Vite,PNPM
 </p  >
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">I play with:
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> I play with:
 <p align="left">
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
