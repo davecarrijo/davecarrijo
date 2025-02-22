@@ -8,7 +8,7 @@
 
 I´m dave, know in the web for Waiolo/s.
 
-- 🔭 I’m currently not working for Web frontend/backend.<br>
+- 🔭 I’m currently working in the backend field but I can do front.<br>
 - 🌱 I’m currently learning computer science on college<br>
 - 💬 Ask me about anything!<br>
 - 😄 Dude: HiGhHh In tEcHhHh<br>
