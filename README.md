@@ -11,7 +11,7 @@ I´m dave, know in the web for Waiolo/s.
 - 🔭 I’m currently working in the backend field but I can do front.<br>
 - 🌱 I’m currently learning computer science on college<br>
 - 💬 Ask me about anything!<br>
-- 😄 Dude: HiGhHh In tEcHhHh<br>
+  <!-- - 😄 Dude: HiGhHh In tEcHhHh<br> -->
 - 📫 How to reach me: [e-mail](davecarrijo@hotmail.com) and [telegram](https://telegram.me/davecarrijo)<br>
 - ⚡ Fun fact: I'm a full-time daydreamer.<br>
 - ⚡ Second fun fact, I did some concept art before, search for waiolos
